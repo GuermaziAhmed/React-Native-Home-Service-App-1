@@ -10,7 +10,7 @@ export default function App() {
       <NavigationContainer>
       <TabNavigation/>
       </NavigationContainer>
-      <StatusBar style="auto" />
+      <StatusBar />
     </View>
   );
 }
